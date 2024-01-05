@@ -1,0 +1,79 @@
+Minor Project
+Name: P. Devi Marizha
+Course:Cloud Computing
+Project Topic: Chatbots
+
+Description about my Project:
+I have Created a HotelBookingBot ChatBot using Amazon Web Services(AWS) Services
+such as Amazon Lex for building conversational interfaces,commonly known as
+chatbots and I have implemented Functionality ChatBot.
+Amazon Lex Overview:
+Amazon Lex is a service that enables developers to build chatbots for various
+applications, including customer support, information retrieval, and more. It uses
+natural language processing (NLP) capabilities to understand and respond to user
+inputs in a conversational manner.
+
+Steps in Amazon Lex Chatbot Creation:
+
+Step 1: Sign in to the AWS Management Console
+• Go to the AWS Management Console.
+• Sign in to your AWS account or create a new one.
+
+Step 2: Access Amazon Lex Console
+• In the AWS Management Console, navigate to the "Services" dropdown and select
+"Amazon Lex" under "Machine Learning.
+
+Step 3: Create a Bot
+• Click on the "Create" button to start creating a new bot.
+• Choose the "Custom bot" option.
+• Enter a name for your bot and choose a language.
+
+ Step 4: Create Intents
+• After creating the bot, you'll need to define intents. Intents represent the actions
+users can perform. Click on the "Add intent" button.
+• Define the intent name and create sample utterances (phrases users might say to
+trigger the intent).
+• Specify slots (variables) for information extraction if needed.
+
+ Step 5: Define Utterances:
+• For each intent, specify sample user utterances. These are examples of how users
+might express their intent in natural language.
+
+Step 6: Configure Slots
+• For each intent, configure slots to gather specific information from the user.
+• Define slot types (such as date, city, etc.) to help Lex understand and validate
+user input.
+
+ Step 7: Build the Conversation Flow
+• Go to the "Editor" tab to define the conversation flow.
+• Connect intents and build a dialogue by defining how the chatbot responds to
+user inputs.
+• Use the visual interface to create a logical flow of interactions.
+
+Step 8: Test Your Chatbot
+• Click on the "Build" button to build your chatbot model.
+• Once the build is complete, go to the "Test" tab.
+• Enter sample user inputs to test how your chatbot responds.
+• Iterate and refine your model based on testing results.
+
+Step 9: Set Up Channels
+• Once your chatbot is ready, configure the channels through which users will
+interact with it. Amazon Lex supports various channels like Facebook, Slack, and
+more.
+• Follow the instructions to integrate your bot with the desired channel.
+
+Step 10: Deploy Your Chatbot
+• Once testing is successful, click on the "Publish" button to deploy your chatbot.
+• Choose a version and create an alias for your bot.
+
+Step 11: Monitor and Maintain
+• Use the Amazon Lex console to monitor user interactions, track performance,
+and identify areas for improvement.
+• Periodically update your bot with new intents, utterances, or improvements
+based on user feedback and usage patterns.
+
+Amazon Lex simplifies the process of building conversational interfaces by providing a
+managed service with built-in natural language understanding capabilities. It allows
+developers to focus on designing meaningful interactions while leveraging the
+underlying machine learning and cloud infrastructure provided by AWS.
+ChatBot Video: https://github.com/DeviMarizha/Cloud_Computing
